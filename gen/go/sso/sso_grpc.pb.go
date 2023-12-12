@@ -4,7 +4,7 @@
 // - protoc             v4.25.1
 // source: sso/sso.proto
 
-package test_sso
+package protos_template
 
 import (
 	context "context"
